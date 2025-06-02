@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "site beta 1",
+			"path": ".."
+		},
+		{
+			"name": "videos",
+			"path": "../../Área de trabalho/videos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "site beta 1"
+	}
+}
